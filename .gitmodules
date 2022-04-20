@@ -17,3 +17,8 @@
 	path = OCA/l10n-france
 	url = git@github.com:OCA/l10n-france.git
 	branch = 14.0
+
+[submodule "OCA/account-closing"]
+	path = OCA/account-closing
+	url = git@github.com:OCA/account-closing.git
+	branch = 14.0
